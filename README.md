@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Ketan
 
 [![An image of @ketanbaitule's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketanbaitule)](https://holopin.io/@ketanbaitule)
+
+- 🌍 I live in India
+- 🌱 I’m currently learning web developement, software automation, AI/ML, web3
+- 👯 I’m looking to collaborate on web3 projects
+- 😄 Pronouns: he/him
+- 📫 How to reach me:
+  - [LinkedIn](https://linkedin.com/in/ketanbaitule): https://linkedin.com/in/ketanbaitule
+  - Discord: ketanbaitule
 
 <!--
 **ketanbaitule/ketanbaitule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
